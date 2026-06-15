@@ -46,7 +46,7 @@ void main() {
     System.out.println("The quotient using ints of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient);
 
     //CREATING MY OWN VARIABLES
-    int numberOfKids = 0;
+    int numberOfKids = 2;
     boolean rainingToday = false;
     double gallonOfGasPrice = 4.15;
     int favNumber = 4;
